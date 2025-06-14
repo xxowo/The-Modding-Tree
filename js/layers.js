@@ -27,7 +27,9 @@ addLayer("q", {
     layerShown(){return true},
     upgrades:{
         11:{
-
+            title: "新开始",
+            description: "三倍你的点数获取。",
+            cost: new Decimal(1),
         }
     }
 })
