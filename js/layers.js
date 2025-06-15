@@ -30,6 +30,11 @@ addLayer("q", {
             title: "新开始",
             description: "三倍你的点数获取。",
             cost: new Decimal(1),
+        },
+        12:{
+            title: "",
+            description: "",
+            cost: new Decimal(1),
         }
     }
 })
